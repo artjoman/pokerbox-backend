@@ -16,7 +16,7 @@ There is no such platform offering mixed reality card game events. All of the pl
 
 ## How to launch
 
-### backend
+### Backend
 - Download repo https://github.com/artjoman/pokerbox-backend
 - Install dependencies by executing command
   `npm i`
@@ -26,3 +26,8 @@ There is no such platform offering mixed reality card game events. All of the pl
  
  Check the APIs by calling endpoint 
  `http://localhost:3300/api/v1/users/`
+
+ ### Frontend 
+
+See instructions in React-native app located here:
+`https://github.com/artjoman/pokerbox-frontend`
