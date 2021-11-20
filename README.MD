@@ -13,3 +13,16 @@ Additional features:
 
 ## Justification
 There is no such platform offering mixed reality card game events. All of the platforms are offering either live-only or online-only games to play. 
+
+## How to launch
+
+### backend
+- Download repo https://github.com/artjoman/pokerbox-backend
+- Install dependencies by executing command
+  `npm i`
+
+- launch the app by executing command
+  `npm run start`
+ 
+ Check the APIs by calling endpoint 
+ `http://localhost:3300/api/v1/users/`
